@@ -1,0 +1,17 @@
+body{
+    background:whitesmoke;
+    color: #e1e1f0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+button{
+    padding: 15px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+p{
+    color: #141414;
+}
